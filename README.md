@@ -1,12 +1,12 @@
-- 👋 Oi, eu sou Isabel Busquilha 
-
-- 👀 Eu gosto de arte, e de interagir através dela levando conhecimento e esperança para o mundo
-
--🌱 Atualmente estou aprendendo alguns cursos não específicos 
-
-- 💞️ Estou procurando colaborar com o meu e o seu aprendizado de maneira geral 
-
-- 📫 E-mail: isabel.busquilha@escola.pr.gov.bt
+👋 Olá, sou Isabel Busquilha.
+🎨 Apaixonada por arte e tecnologia.
+💻 Estudante autodidata de HTML, CSS e JavaScript.
+📖 Atualmente, explorando o mundo do desenvolvimento web.
+🌟 Sempre buscando maneiras criativas de unir arte e código.
+🖌️ Criando sites e projetos que são verdadeiras obras de arte.
+🚀 Ansiosa para aprender e compartilhar conhecimento.
+ Vamos conectar e explorar juntos o mundo da tecnologia e da arte!
+- 📫 E-mail: isabel.busquilha@escola.pr.gov.br
 
 <!---
 isabelbusquilha/isabelbusquilha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
